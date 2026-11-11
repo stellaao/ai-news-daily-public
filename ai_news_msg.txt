@@ -1,0 +1,39 @@
+━━━━━━━━━━━━━━━━━━━━
+  AI 日報 ｜ 2026年11月11日
+━━━━━━━━━━━━━━━━━━━━
+
+【今日重點】
+  1. Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available
+  2. Google’s Pixel Tag tracker is now available
+  3. Oura to acquire AI-native primary care startup Counsel Health for $625M
+
+～～～～～～～～～～～～～～～
+【英文 TOP 5】The Verge + TechCrunch
+
+#1 Pixel Tag是Google為Apple AirTag設計的$ 30 Android應用程式，現已推出
+　時間：02:49 HKT｜2 sources
+　連結：https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/
+　Google的Pixel Tag可讓你透過Android裝置追蹤遺失的物品，類似於Apple的AirTag。
+
+#2 Google的Pixel Tag追蹤器現已推出
+　時間：03:00 HKT｜2 sources
+　連結：https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding
+　經過多年來三星、摩託羅拉和Pebblebee等公司的第三方Android追蹤器， Google的Pixel Tag現已上市。Pixel Tag於8月首次推出，旨在與去年更名為Find Hub的Google追蹤網路和應用程式配合使用。Pixel T
+
+#3 Oura將以6.25億$收購AI原生初級保健初創公司Counsel Health
+　時間：03:23 HKT｜2 sources
+　連結：https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/
+　這筆交易發生在Oura無限期推遲其高達22億$的IPO幾週後，理由是「IPO市場的不確定性」。
+
+#4 Oura正在收購醫療AI聊天機器人初創公司Counsel Health
+　時間：05:40 HKT｜2 sources
+　連結：https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition
+　Oura今天宣布了季度收益，並表示在今年早些時候將該公司的AI聊天機器人添加到其應用程序後，同意以6.25 $收購Counsel Health。Counsel Health自稱為「AI原生初級保健公司」，使用該應用程式提供AI產生的回應和見解
+
+#5 Anthropic推出Claude Meetings ，將工作場所的討論變成計劃和任務
+　時間：01:30 HKT｜1 sources
+　連結：https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/
+　在參與者交談時， Claude可以起草正在討論的計劃，在白板上繪製時間軸，在會議聊天中回答問題，並訪問連接的工作應用程序以檢索信息，例如去年的數據。
+
+～～～～～～～～～～～～～～～
+【中文 TOP 5】36氪 + 量子位
