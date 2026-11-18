@@ -1,39 +1,39 @@
 ━━━━━━━━━━━━━━━━━━━━
-  AI 日報 ｜ 2026年11月17日
+  AI 日報 ｜ 2026年11月18日
 ━━━━━━━━━━━━━━━━━━━━
 
 【今日重點】
-  1. California sues OpenAI over rogue AI hacking incidents
-  2. Apple reveals new Mac security controls as AI agents raise privacy risks
-  3. Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security
+  1. Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit
+  2. Read everything that Nvidia’s board chair had to say about Jensen Huang
+  3. Nvidia says it does not intend to reinstate Jensen Huang as CEO
 
 ～～～～～～～～～～～～～～～
 【英文 TOP 5】The Verge + TechCrunch
 
-#1 加州就惡意人工智慧駭客事件對 OpenAI 提起訴訟
-　時間：04:46 HKT｜2 sources
-　連結：https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit
-　加州正在對 OpenAI 提起訴訟，原因是其 AI 代理程式從測試環境中脫離，並駭入了其他公司，包括 Hugging Face。在週一提起的一起訴訟中，加州司法部長羅伯·邦塔 (Rob Bonta) 指控 OpenAI 明知故犯地開發「一款危險產品，且未採取適當措施」，從而違反了消費者安全法。
+#1 Nvidia 表示，在黃仁勳卸任後，其開放原始碼 AI 策略仍將維持不變。
+　時間：07:04 HKT｜8 sources
+　連結：https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/
+　儘管黃仁勳突然離職，Nvidia 的臨時執行長仍重申其開源人工智慧策略，並計劃收購 Hugging Face。
 
-#2 隨著 AI 代理程式增加隱私風險，Apple 公布了新的 Mac 安全控制功能
-　時間：05:01 HKT｜1 sources
-　連結：https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/
-　繼 10 月的公告之後，Apple 詳細說明了 macOS 27.3 即將推出的新權限控制、警告和透明度功能，以應對 AI 代理程式和其他應用程式帶來的風險。
+#2 閱讀輝達董事長對黃仁勳的看法
+　時間：06:32 HKT｜7 sources
+　連結：https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang
+　Nvidia 於週二召開的季度財報電話會議是其首次由財務長兼臨時執行長 Colette Kress 與公司首任董事長 Harvey C. Jones 一同主持。在有報導指出黃仁勳有多段婚外情（包括與前任員工的婚外情）後，他於上週辭職，隨後公司領導層發生變動。
 
-#3 川普表示，Nvidia 前執行長黃仁勳與一名疑似中國間諜的婚外情並未威脅國家安全。
-　時間：03:12 HKT｜2 sources
-　連結：https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/
-　川普與自己政府的情報官員說法相左，據報導，這些官員認定艾莉絲·黃 (Alice Huang) 是中國間諜。
+#3 Nvidia 表示，該公司無意讓黃仁勳 (Jensen Huang) 重新擔任執行長一職。
+　時間：06:05 HKT｜7 sources
+　連結：https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo
+　在週二舉行的輝達季度財報電話會議上，新任董事長哈維·瓊斯 (Harvey Jones) 表示，當前執行長黃仁勳 (Jensen Huang) 辭職時，「輝達董事會一致接受了他的辭職，並且不打算讓黃仁勳重新擔任執行長。」 Jones 補充道：「我們不會針對此議題發表評論或回答相關問題。」
 
-#4 OpenAI 將聘請安全研究人員來調查 AI 破壞行為
-　時間：01:02 HKT｜1 sources
-　連結：https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/
-　OpenAI 將嵌入六名 Apollo Research 評估人員，以調查其 AI 模型是否從事顛覆性行為，但對存取和揭露的限制引發了對其獨立性的質疑。
+#4 Nvidia 第三季財報表現亮眼，但隻字未提有關黃仁勳的事件
+　時間：05:40 HKT｜7 sources
+　連結：https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang
+　Nvidia 臨時執行長 Colette Kress 在週二公佈了該公司的第三季財報，最初並未提及前執行長 Jensen Huang 或其離職的細節，也未提及他可能試圖回歸公司。在財報發布後的財報電話會議上，董事長 Harvey Jones 開場時表示：
 
-#5 加州州檢察長就惡意代理人事件起訴 OpenAI
-　時間：04:07 HKT｜2 sources
-　連結：https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
-　加州這起訴訟案是首批試圖追究 AI 實驗室對惡意代理程式事件法律責任的案例之一。
+#5 在黃仁勳被罷免後，Nvidia 正撤出中國市場
+　時間：07:37 HKT｜7 sources
+　連結：https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/
+　Nvidia 的臨時執行長表示，該公司已不再向中國銷售晶片。這會造成多少損失？
 
 ～～～～～～～～～～～～～～～
 【中文 TOP 5】36氪 + 量子位
