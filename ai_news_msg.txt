@@ -1,39 +1,39 @@
 ━━━━━━━━━━━━━━━━━━━━
-  AI 日報 ｜ 2026年11月18日
+  AI 日報 ｜ 2026年11月19日
 ━━━━━━━━━━━━━━━━━━━━
 
 【今日重點】
-  1. Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit
-  2. Read everything that Nvidia’s board chair had to say about Jensen Huang
-  3. Nvidia says it does not intend to reinstate Jensen Huang as CEO
+  1. David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance
+  2. Elon Musk says: ‘I’m not MAGA’
+  3. Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’
 
 ～～～～～～～～～～～～～～～
 【英文 TOP 5】The Verge + TechCrunch
 
-#1 Nvidia 表示，在黃仁勳卸任後，其開放原始碼 AI 策略仍將維持不變。
-　時間：07:04 HKT｜8 sources
-　連結：https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/
-　儘管黃仁勳突然離職，Nvidia 的臨時執行長仍重申其開源人工智慧策略，並計劃收購 Hugging Face。
+#1 大衛·艾利森 (David Ellison) 表示，儘管他在 Skydance 投資了 10 億美元，HBO 仍將播出批評伊隆·馬斯克 (Elon Musk) 的紀錄片。
+　時間：01:30 HKT｜3 sources
+　連結：https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/
+　在投資消息傳出後，人們開始質疑馬斯克在該公司的大量持股可能會如何影響 Skydance 發行一部對他極為批評的紀錄片的計畫。
 
-#2 閱讀輝達董事長對黃仁勳的看法
-　時間：06:32 HKT｜7 sources
-　連結：https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang
-　Nvidia 於週二召開的季度財報電話會議是其首次由財務長兼臨時執行長 Colette Kress 與公司首任董事長 Harvey C. Jones 一同主持。在有報導指出黃仁勳有多段婚外情（包括與前任員工的婚外情）後，他於上週辭職，隨後公司領導層發生變動。
+#2 伊隆·馬斯克 (Elon Musk) 表示：「我不是 MAGA。」
+　時間：08:40 HKT｜3 sources
+　連結：https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/
+　伊隆·馬斯克 (Elon Musk) 在週三出席 Dealbook 峰會時表示，他不確定「MAGA」一詞的含義，並表示他在美國期中選舉期間花費這麼多錢，讓他覺得「很愚蠢」。
 
-#3 Nvidia 表示，該公司無意讓黃仁勳 (Jensen Huang) 重新擔任執行長一職。
-　時間：06:05 HKT｜7 sources
-　連結：https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo
-　在週二舉行的輝達季度財報電話會議上，新任董事長哈維·瓊斯 (Harvey Jones) 表示，當前執行長黃仁勳 (Jensen Huang) 辭職時，「輝達董事會一致接受了他的辭職，並且不打算讓黃仁勳重新擔任執行長。」 Jones 補充道：「我們不會針對此議題發表評論或回答相關問題。」
+#3 伊隆·馬斯克 (Elon Musk) 表示，罷免黃仁勳 (Jensen Huang) 就像是「把麥可·喬丹 (Michael Jordan) 踢出你的球隊」。
+　時間：07:25 HKT｜3 sources
+　連結：https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/
+　馬斯克表示：「我不認為 [黃仁勳] 對美國不忠。」
 
-#4 Nvidia 第三季財報表現亮眼，但隻字未提有關黃仁勳的事件
-　時間：05:40 HKT｜7 sources
-　連結：https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang
-　Nvidia 臨時執行長 Colette Kress 在週二公佈了該公司的第三季財報，最初並未提及前執行長 Jensen Huang 或其離職的細節，也未提及他可能試圖回歸公司。在財報發布後的財報電話會議上，董事長 Harvey Jones 開場時表示：
+#4 微軟執行長薩提亞·納德拉 (Satya Nadella) 解釋他為何要求 6 萬名員工離職
+　時間：08:42 HKT｜2 sources
+　連結：https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+　微軟執行長 Satya Nadella 解釋了他在 10 月向 6 萬名員工提供買斷方案的原因，這實際上是敦促他們自願離職，而非透過另一次大規模裁員來縮減員工人數。簡短的答案是人工智慧 (AI)，但並非您所想像的那樣。
 
-#5 在黃仁勳被罷免後，Nvidia 正撤出中國市場
-　時間：07:37 HKT｜7 sources
-　連結：https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/
-　Nvidia 的臨時執行長表示，該公司已不再向中國銷售晶片。這會造成多少損失？
+#5 在黃仁勳卸任後，微軟執行長薩提亞·納德拉 (Satya Nadella) 對輝達仍充滿信心。
+　時間：07:17 HKT｜2 sources
+　連結：https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/
+　微軟執行長薩提亞·納德拉 (Satya Nadella) 對黃仁勳的繼任者科萊特·克雷斯 (Colette Kress) 表示有信心，她目前擔任輝達的臨時執行長。
 
 ～～～～～～～～～～～～～～～
 【中文 TOP 5】36氪 + 量子位
