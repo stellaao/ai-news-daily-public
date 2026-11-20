@@ -1,303 +1,151 @@
 {
-  "date": "2026年11月19日",
-  "generated_at": "2026-11-19T09:00:20.769162+08:00",
+  "date": "2026年11月20日",
+  "generated_at": "2026-11-20T09:00:20.589417+08:00",
   "articles_en": [
     {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
+      "source": "The Verge",
+      "source_id": "theverge",
       "lang": "en",
-      "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
-      "link": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
-      "summary": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
-      "published": "2026-11-19T01:30:56+08:00",
-      "published_hkt": "01:30",
+      "title": "Meta’s Muse Charm might cost $300",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\"",
+      "published": "2026-11-20T04:22:17+08:00",
+      "published_hkt": "04:22",
       "keywords": [
         "AI/LLM",
         "Meta",
         "Tesla",
         "VR/AR"
       ],
-      "score": 4.6,
-      "cross_sources": 3,
-      "title_zh": "大衛·艾利森 (David Ellison) 表示，儘管他在 Skydance 投資了 10 億美元，HBO 仍將播出批評伊隆·馬斯克 (Elon Musk) 的紀錄片。",
-      "summary_zh": "在投資消息傳出後，人們開始質疑馬斯克在該公司的大量持股可能會如何影響 Skydance 發行一部對他極為批評的紀錄片的計畫。"
+      "score": 3.6,
+      "cross_sources": 2,
+      "title_zh": "Meta 的 Muse Charm 可能要價 300 美元",
+      "summary_zh": "根據 The Information 的報導，Meta 計劃將 Muse Charm 的定價設為 300 美元。Muse Charm 是一款配有螢幕的小型裝置，讓您能夠與 Muse AI 代理程式進行對話。執行長 Mark Zuckerberg 今年稍早公開了這款小裝置，並表示公司預計將在「12 月的節日期間」出貨 Charm。"
     },
     {
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "lang": "en",
-      "title": "Elon Musk says: ‘I’m not MAGA’",
-      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-      "summary": "During his appearance Wednesday at the Dealbook Summit conference, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
-      "published": "2026-11-19T08:40:49+08:00",
-      "published_hkt": "08:40",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "published": "2026-11-20T05:58:06+08:00",
+      "published_hkt": "05:58",
       "keywords": [
         "AI/LLM",
+        "Meta",
         "Tesla",
         "VR/AR"
       ],
-      "score": 4.2,
-      "cross_sources": 3,
-      "title_zh": "伊隆·馬斯克 (Elon Musk) 表示：「我不是 MAGA。」",
-      "summary_zh": "伊隆·馬斯克 (Elon Musk) 在週三出席 Dealbook 峰會時表示，他不確定「MAGA」一詞的含義，並表示他在美國期中選舉期間花費這麼多錢，讓他覺得「很愚蠢」。"
+      "score": 3.6,
+      "cross_sources": 2,
+      "title_zh": "Meta 的全新 Muse Charm 裝置可能要價 300 美元",
+      "summary_zh": "Meta 並未否認 The Information 的報導，只表示很快就會「有更多資訊可以分享」關於即將推出的 AI 穿戴式裝置。"
     },
     {
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "lang": "en",
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-      "published": "2026-11-19T07:25:17+08:00",
-      "published_hkt": "07:25",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "published": "2026-11-20T08:56:01+08:00",
+      "published_hkt": "08:56",
       "keywords": [
         "AI/LLM",
-        "Tesla"
-      ],
-      "score": 3.8,
-      "cross_sources": 3,
-      "title_zh": "伊隆·馬斯克 (Elon Musk) 表示，罷免黃仁勳 (Jensen Huang) 就像是「把麥可·喬丹 (Michael Jordan) 踢出你的球隊」。",
-      "summary_zh": "馬斯克表示：「我不認為 [黃仁勳] 對美國不忠。」"
-    },
-    {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "lang": "en",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-      "published": "2026-11-19T08:42:56+08:00",
-      "published_hkt": "08:42",
-      "keywords": [
-        "AI/LLM",
-        "Microsoft",
+        "Apple",
+        "Meta",
+        "Tesla",
         "VR/AR"
-      ],
-      "score": 3.2,
-      "cross_sources": 2,
-      "title_zh": "微軟執行長薩提亞·納德拉 (Satya Nadella) 解釋他為何要求 6 萬名員工離職",
-      "summary_zh": "微軟執行長 Satya Nadella 解釋了他在 10 月向 6 萬名員工提供買斷方案的原因，這實際上是敦促他們自願離職，而非透過另一次大規模裁員來縮減員工人數。簡短的答案是人工智慧 (AI)，但並非您所想像的那樣。"
-    },
-    {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "lang": "en",
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "published": "2026-11-19T07:17:28+08:00",
-      "published_hkt": "07:17",
-      "keywords": [
-        "AI/LLM",
-        "Chip",
-        "Microsoft"
-      ],
-      "score": 3.2,
-      "cross_sources": 2,
-      "title_zh": "在黃仁勳卸任後，微軟執行長薩提亞·納德拉 (Satya Nadella) 對輝達仍充滿信心。",
-      "summary_zh": "微軟執行長薩提亞·納德拉 (Satya Nadella) 對黃仁勳的繼任者科萊特·克雷斯 (Colette Kress) 表示有信心，她目前擔任輝達的臨時執行長。"
-    },
-    {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "lang": "en",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "published": "2026-11-19T07:45:00+08:00",
-      "published_hkt": "07:45",
-      "keywords": [
-        "AI/LLM",
-        "Microsoft",
-        "Security",
-        "VR/AR",
-        "Phone"
       ],
       "score": 3.0,
-      "cross_sources": 1
-    },
-    {
-      "source": "The Verge",
-      "source_id": "theverge",
-      "lang": "en",
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for",
-      "published": "2026-11-19T03:07:29+08:00",
-      "published_hkt": "03:07",
-      "keywords": [
-        "AI/LLM",
-        "VR/AR",
-        "Crypto",
-        "Cloud"
-      ],
-      "score": 2.6,
-      "cross_sources": 1
+      "cross_sources": 1,
+      "title_zh": "蘋果可能正在開發自己的 AI 代理程式來運行您的 Mac",
+      "summary_zh": "iPhone 製造商似乎正在開發能夠與 Meta Muse、Instinct、Claude 和 OpenAI Dots 等產品競爭的代理程式。"
     },
     {
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "lang": "en",
-      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-      "published": "2026-11-19T01:32:10+08:00",
-      "published_hkt": "01:32",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "published": "2026-11-20T04:18:49+08:00",
+      "published_hkt": "04:18",
       "keywords": [
         "AI/LLM",
+        "Chip",
         "Tesla",
-        "Security",
-        "VR/AR"
+        "Security"
       ],
       "score": 2.6,
-      "cross_sources": 1
+      "cross_sources": 1,
+      "title_zh": "持續延燒的黃仁勳醜聞：時間軸",
+      "summary_zh": "在爆出婚外情醜聞後，黃仁勳已從輝達 (Nvidia) 辭職。由於美國與中國正競相開發最先進的人工智慧基礎設施，此事可能對國家安全產生影響。"
     },
     {
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "lang": "en",
-      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-      "published": "2026-11-19T00:14:09+08:00",
-      "published_hkt": "00:14",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "published": "2026-11-20T01:38:40+08:00",
+      "published_hkt": "01:38",
       "keywords": [
         "AI/LLM",
-        "Chip",
-        "Tesla",
-        "VR/AR"
-      ],
-      "score": 2.6,
-      "cross_sources": 1
-    },
-    {
-      "source": "The Verge",
-      "source_id": "theverge",
-      "lang": "en",
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without a",
-      "published": "2026-11-19T07:18:35+08:00",
-      "published_hkt": "07:18",
-      "keywords": [
-        "AI/LLM",
-        "Google",
-        "VR/AR"
-      ],
-      "score": 2.2,
-      "cross_sources": 1
-    },
-    {
-      "source": "The Verge",
-      "source_id": "theverge",
-      "lang": "en",
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls ",
-      "published": "2026-11-19T03:40:36+08:00",
-      "published_hkt": "03:40",
-      "keywords": [
-        "AI/LLM",
-        "Apple",
-        "VR/AR"
-      ],
-      "score": 2.2,
-      "cross_sources": 1
-    },
-    {
-      "source": "The Verge",
-      "source_id": "theverge",
-      "lang": "en",
-      "title": "Nvidia’s rise, visualized",
-      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a seri",
-      "published": "2026-11-19T03:30:00+08:00",
-      "published_hkt": "03:30",
-      "keywords": [
-        "Chip",
-        "Tesla",
-        "VR/AR"
-      ],
-      "score": 2.2,
-      "cross_sources": 1
-    },
-    {
-      "source": "The Verge",
-      "source_id": "theverge",
-      "lang": "en",
-      "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
-      "summary": "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions. It’s currently discounted by $1,100 at various retailers, including Amazon, Be",
-      "published": "2026-11-19T03:30:00+08:00",
-      "published_hkt": "03:30",
-      "keywords": [
-        "AI/LLM",
-        "Tesla",
-        "VR/AR"
-      ],
-      "score": 2.2,
-      "cross_sources": 1
-    },
-    {
-      "source": "The Verge",
-      "source_id": "theverge",
-      "lang": "en",
-      "title": "Instagram now lets you edit your stories after you post them",
-      "link": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
-      "summary": "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri has announced. Reverse engineer Alessandro Paluzzi first spo",
-      "published": "2026-11-19T03:29:10+08:00",
-      "published_hkt": "03:29",
-      "keywords": [
         "Meta",
         "Tesla",
         "VR/AR"
       ],
-      "score": 2.2,
-      "cross_sources": 1
+      "score": 2.6,
+      "cross_sources": 1,
+      "title_zh": "據報導，Meta 的 AI 代理程式 Muse 會混淆對話內容，並可能洩露私人資料。",
+      "summary_zh": "在其中一些情況下，員工表示 Muse 顯示了他們從未提出過的托育申請、從未諮詢過的職涯建議、從未下過的產品訂單，以及不屬於他們的銀行帳戶餘額。"
     },
     {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
+      "source": "The Verge",
+      "source_id": "theverge",
       "lang": "en",
-      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-      "published": "2026-11-19T05:34:13+08:00",
-      "published_hkt": "05:34",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip",
+      "published": "2026-11-20T05:59:35+08:00",
+      "published_hkt": "05:59",
       "keywords": [
         "AI/LLM",
-        "Security",
+        "Chip",
         "VR/AR"
       ],
       "score": 2.2,
       "cross_sources": 1
     },
     {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
+      "source": "The Verge",
+      "source_id": "theverge",
       "lang": "en",
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-      "published": "2026-11-19T03:56:39+08:00",
-      "published_hkt": "03:56",
+      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie [&#",
+      "published": "2026-11-20T05:12:06+08:00",
+      "published_hkt": "05:12",
       "keywords": [
         "AI/LLM",
-        "Tesla",
+        "Meta",
         "VR/AR"
       ],
       "score": 2.2,
       "cross_sources": 1
     },
     {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
+      "source": "The Verge",
+      "source_id": "theverge",
       "lang": "en",
-      "title": "Google’s AI feature in Search gets its own incognito mode",
-      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-      "published": "2026-11-19T02:04:05+08:00",
-      "published_hkt": "02:04",
+      "title": "Google is putting AI chats right on the homepage",
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#82",
+      "published": "2026-11-20T04:05:06+08:00",
+      "published_hkt": "04:05",
       "keywords": [
         "AI/LLM",
         "Google",
@@ -310,30 +158,150 @@
       "source": "The Verge",
       "source_id": "theverge",
       "lang": "en",
-      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
-      "link": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
-      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader John Thune (R-SD). To h",
-      "published": "2026-11-19T06:05:48+08:00",
-      "published_hkt": "06:05",
+      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+      "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones, which are marked down to their",
+      "published": "2026-11-20T03:35:52+08:00",
+      "published_hkt": "03:35",
       "keywords": [
         "AI/LLM",
+        "Tesla",
         "VR/AR"
       ],
-      "score": 1.8,
+      "score": 2.2,
       "cross_sources": 1
     },
     {
       "source": "The Verge",
       "source_id": "theverge",
       "lang": "en",
-      "title": "Absolute Batman can save DC Studios",
-      "link": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
-      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out",
-      "published": "2026-11-19T05:20:00+08:00",
-      "published_hkt": "05:20",
+      "title": "Some creators are skeptical of Instagram’s new affiliate program",
+      "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some con",
+      "published": "2026-11-20T03:12:30+08:00",
+      "published_hkt": "03:12",
       "keywords": [
+        "Meta",
+        "VR/AR",
+        "Robot"
+      ],
+      "score": 2.2,
+      "cross_sources": 1
+    },
+    {
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "lang": "en",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "published": "2026-11-20T07:37:56+08:00",
+      "published_hkt": "07:37",
+      "keywords": [
+        "AI/LLM",
+        "Tesla",
+        "Space"
+      ],
+      "score": 2.2,
+      "cross_sources": 1
+    },
+    {
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "lang": "en",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+      "published": "2026-11-20T06:33:26+08:00",
+      "published_hkt": "06:33",
+      "keywords": [
+        "AI/LLM",
         "Apple",
+        "Tesla"
+      ],
+      "score": 2.2,
+      "cross_sources": 1
+    },
+    {
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "lang": "en",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "published": "2026-11-20T05:42:31+08:00",
+      "published_hkt": "05:42",
+      "keywords": [
+        "AI/LLM",
+        "Security",
         "VR/AR"
+      ],
+      "score": 2.2,
+      "cross_sources": 1
+    },
+    {
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "lang": "en",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "published": "2026-11-20T02:09:11+08:00",
+      "published_hkt": "02:09",
+      "keywords": [
+        "AI/LLM",
+        "Apple",
+        "Google"
+      ],
+      "score": 2.2,
+      "cross_sources": 1
+    },
+    {
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "lang": "en",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "published": "2026-11-20T01:00:00+08:00",
+      "published_hkt": "01:00",
+      "keywords": [
+        "AI/LLM",
+        "Tesla",
+        "Startup"
+      ],
+      "score": 2.2,
+      "cross_sources": 1
+    },
+    {
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "lang": "en",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "published": "2026-11-20T00:19:41+08:00",
+      "published_hkt": "00:19",
+      "keywords": [
+        "AI/LLM",
+        "Tesla",
+        "VR/AR"
+      ],
+      "score": 2.2,
+      "cross_sources": 1
+    },
+    {
+      "source": "The Verge",
+      "source_id": "theverge",
+      "lang": "en",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic ",
+      "published": "2026-11-20T06:31:41+08:00",
+      "published_hkt": "06:31",
+      "keywords": [
+        "AI/LLM",
+        "Apple"
       ],
       "score": 1.8,
       "cross_sources": 1
@@ -342,13 +310,29 @@
       "source": "The Verge",
       "source_id": "theverge",
       "lang": "en",
-      "title": "The best early Black Friday deals you can already shop",
-      "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#821",
-      "published": "2026-11-19T02:44:27+08:00",
-      "published_hkt": "02:44",
+      "title": "You can now buy a Steam Machine without getting on a waitlist",
+      "link": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+      "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on a waitlist. Initially, interested buyer",
+      "published": "2026-11-20T03:33:22+08:00",
+      "published_hkt": "03:33",
       "keywords": [
         "AI/LLM",
+        "Apple"
+      ],
+      "score": 1.8,
+      "cross_sources": 1
+    },
+    {
+      "source": "The Verge",
+      "source_id": "theverge",
+      "lang": "en",
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+      "summary": "Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos, Amazon",
+      "published": "2026-11-20T02:33:08+08:00",
+      "published_hkt": "02:33",
+      "keywords": [
+        "Tesla",
         "VR/AR"
       ],
       "score": 1.8,
@@ -358,29 +342,13 @@
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "lang": "en",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "published": "2026-11-19T06:58:11+08:00",
-      "published_hkt": "06:58",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "published": "2026-11-20T08:43:50+08:00",
+      "published_hkt": "08:43",
       "keywords": [
-        "AI/LLM",
-        "Microsoft"
-      ],
-      "score": 1.8,
-      "cross_sources": 1
-    },
-    {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "lang": "en",
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "published": "2026-11-19T06:11:15+08:00",
-      "published_hkt": "06:11",
-      "keywords": [
-        "AI/LLM",
+        "Tesla",
         "VR/AR"
       ],
       "score": 1.8,
@@ -390,30 +358,14 @@
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "lang": "en",
-      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-      "published": "2026-11-19T05:57:40+08:00",
-      "published_hkt": "05:57",
-      "keywords": [
-        "Chip",
-        "VR/AR"
-      ],
-      "score": 1.8,
-      "cross_sources": 1
-    },
-    {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "lang": "en",
-      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-      "published": "2026-11-19T05:31:21+08:00",
-      "published_hkt": "05:31",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "published": "2026-11-20T08:26:03+08:00",
+      "published_hkt": "08:26",
       "keywords": [
         "AI/LLM",
-        "Chip"
+        "Security"
       ],
       "score": 1.8,
       "cross_sources": 1
@@ -422,27 +374,11 @@
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "lang": "en",
-      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-      "published": "2026-11-19T04:07:01+08:00",
-      "published_hkt": "04:07",
-      "keywords": [
-        "AI/LLM",
-        "VR/AR"
-      ],
-      "score": 1.8,
-      "cross_sources": 1
-    },
-    {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "lang": "en",
-      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-      "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-      "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-      "published": "2026-11-19T03:29:41+08:00",
-      "published_hkt": "03:29",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "published": "2026-11-20T00:59:23+08:00",
+      "published_hkt": "00:59",
       "keywords": [
         "AI/LLM",
         "Startup"
@@ -451,30 +387,14 @@
       "cross_sources": 1
     },
     {
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "lang": "en",
-      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-      "published": "2026-11-19T00:59:00+08:00",
-      "published_hkt": "00:59",
-      "keywords": [
-        "AI/LLM",
-        "VR/AR"
-      ],
-      "score": 1.8,
-      "cross_sources": 1
-    },
-    {
       "source": "The Verge",
       "source_id": "theverge",
       "lang": "en",
-      "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
-      "link": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
-      "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost $1,000 if not $2,000 now. But it looks like Lenovo might be about to announce [&#8230;",
-      "published": "2026-11-19T03:11:50+08:00",
-      "published_hkt": "03:11",
+      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+      "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+      "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison. Jammers are generally banned under Section 3",
+      "published": "2026-11-20T03:40:28+08:00",
+      "published_hkt": "03:40",
       "keywords": [
         "VR/AR"
       ],
@@ -485,13 +405,13 @@
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "lang": "en",
-      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
-      "published": "2026-11-19T06:04:03+08:00",
-      "published_hkt": "06:04",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "published": "2026-11-20T03:10:45+08:00",
+      "published_hkt": "03:10",
       "keywords": [
-        "AI/LLM"
+        "VR/AR"
       ],
       "score": 1.4,
       "cross_sources": 1
@@ -500,17 +420,17 @@
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "lang": "en",
-      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
-      "link": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
-      "summary": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
-      "published": "2026-11-19T00:00:00+08:00",
-      "published_hkt": "00:00",
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "summary": "Uber is testing the new program in three U.S. cities.",
+      "published": "2026-11-20T05:33:24+08:00",
+      "published_hkt": "05:33",
       "keywords": [],
       "score": 1.0,
       "cross_sources": 1
     }
   ],
   "articles_zh": [],
-  "total_en": 30,
+  "total_en": 25,
   "total_zh": 0
 }

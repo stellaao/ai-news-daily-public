@@ -1,39 +1,39 @@
 ━━━━━━━━━━━━━━━━━━━━
-  AI 日報 ｜ 2026年11月19日
+  AI 日報 ｜ 2026年11月20日
 ━━━━━━━━━━━━━━━━━━━━
 
 【今日重點】
-  1. David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance
-  2. Elon Musk says: ‘I’m not MAGA’
-  3. Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’
+  1. Meta’s Muse Charm might cost $300
+  2. Meta’s new Muse Charm device may cost $300
+  3. Apple may be developing its own AI agent that runs your Mac
 
 ～～～～～～～～～～～～～～～
 【英文 TOP 5】The Verge + TechCrunch
 
-#1 大衛·艾利森 (David Ellison) 表示，儘管他在 Skydance 投資了 10 億美元，HBO 仍將播出批評伊隆·馬斯克 (Elon Musk) 的紀錄片。
-　時間：01:30 HKT｜3 sources
-　連結：https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/
-　在投資消息傳出後，人們開始質疑馬斯克在該公司的大量持股可能會如何影響 Skydance 發行一部對他極為批評的紀錄片的計畫。
+#1 Meta 的 Muse Charm 可能要價 300 美元
+　時間：04:22 HKT｜2 sources
+　連結：https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price
+　根據 The Information 的報導，Meta 計劃將 Muse Charm 的定價設為 300 美元。Muse Charm 是一款配有螢幕的小型裝置，讓您能夠與 Muse AI 代理程式進行對話。執行長 Mark Zuckerberg 今年稍早公開了這款小裝置，並表示公司預計將在「12 月的節日期間」出貨 Charm。
 
-#2 伊隆·馬斯克 (Elon Musk) 表示：「我不是 MAGA。」
-　時間：08:40 HKT｜3 sources
-　連結：https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/
-　伊隆·馬斯克 (Elon Musk) 在週三出席 Dealbook 峰會時表示，他不確定「MAGA」一詞的含義，並表示他在美國期中選舉期間花費這麼多錢，讓他覺得「很愚蠢」。
+#2 Meta 的全新 Muse Charm 裝置可能要價 300 美元
+　時間：05:58 HKT｜2 sources
+　連結：https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/
+　Meta 並未否認 The Information 的報導，只表示很快就會「有更多資訊可以分享」關於即將推出的 AI 穿戴式裝置。
 
-#3 伊隆·馬斯克 (Elon Musk) 表示，罷免黃仁勳 (Jensen Huang) 就像是「把麥可·喬丹 (Michael Jordan) 踢出你的球隊」。
-　時間：07:25 HKT｜3 sources
-　連結：https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/
-　馬斯克表示：「我不認為 [黃仁勳] 對美國不忠。」
+#3 蘋果可能正在開發自己的 AI 代理程式來運行您的 Mac
+　時間：08:56 HKT｜1 sources
+　連結：https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
+　iPhone 製造商似乎正在開發能夠與 Meta Muse、Instinct、Claude 和 OpenAI Dots 等產品競爭的代理程式。
 
-#4 微軟執行長薩提亞·納德拉 (Satya Nadella) 解釋他為何要求 6 萬名員工離職
-　時間：08:42 HKT｜2 sources
-　連結：https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
-　微軟執行長 Satya Nadella 解釋了他在 10 月向 6 萬名員工提供買斷方案的原因，這實際上是敦促他們自願離職，而非透過另一次大規模裁員來縮減員工人數。簡短的答案是人工智慧 (AI)，但並非您所想像的那樣。
+#4 持續延燒的黃仁勳醜聞：時間軸
+　時間：04:18 HKT｜1 sources
+　連結：https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+　在爆出婚外情醜聞後，黃仁勳已從輝達 (Nvidia) 辭職。由於美國與中國正競相開發最先進的人工智慧基礎設施，此事可能對國家安全產生影響。
 
-#5 在黃仁勳卸任後，微軟執行長薩提亞·納德拉 (Satya Nadella) 對輝達仍充滿信心。
-　時間：07:17 HKT｜2 sources
-　連結：https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/
-　微軟執行長薩提亞·納德拉 (Satya Nadella) 對黃仁勳的繼任者科萊特·克雷斯 (Colette Kress) 表示有信心，她目前擔任輝達的臨時執行長。
+#5 據報導，Meta 的 AI 代理程式 Muse 會混淆對話內容，並可能洩露私人資料。
+　時間：01:38 HKT｜1 sources
+　連結：https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/
+　在其中一些情況下，員工表示 Muse 顯示了他們從未提出過的托育申請、從未諮詢過的職涯建議、從未下過的產品訂單，以及不屬於他們的銀行帳戶餘額。
 
 ～～～～～～～～～～～～～～～
 【中文 TOP 5】36氪 + 量子位
